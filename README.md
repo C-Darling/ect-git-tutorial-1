@@ -10,3 +10,12 @@ Well yes actually the latter explanation is accurate
 The purpose of this readme is to be way too verbose that necessary so that I the writer can create some entertainment for myself
 
 :)
+
+I now have a new instruction to edit this file to create a new version of git
+This is a philosopical leap for the existence of this file
+As the old Greek saying goes, "A man cannot enter the same river twice"
+"As it is not the same river, nor is it the same man"
+
+This file cannot enter git twice, as it is no longer the same file nor is git the same
+This file is now a brand new object in this universe in which we inhabit
+This new file will be recommited to git to provide an example of versioning
