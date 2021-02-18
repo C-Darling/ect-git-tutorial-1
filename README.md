@@ -39,6 +39,7 @@ This file is now a brand new object in this universe in which we inhabit
 This new file will be recommited to git to provide an example of versioning
 
 
+
 I have edited the formatting of this file to fit my tastes better
 
 I am now tasked with editing this file once again creating a third version of the file
@@ -48,3 +49,10 @@ This is not the same file as before, this is a brand new file
 It may be based from files of the past, but each version of the file is a new file
 
 Not quite the same concept, but it reminds be of Theseus's Ship
+
+
+I am now editing this file on github the website and not from my local directory, which means a fourth file exists now
+
+The medium I am editing this on means the version here on github will be temporarily different from the version I have locally
+
+Until I run git-push
